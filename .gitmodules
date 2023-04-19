@@ -1,0 +1,9 @@
+[submodule "firmware"]
+	path = firmware
+	url = git@github.com:Nigh/HAMKey-firmware.git
+[submodule "layout"]
+	path = layout
+	url = git@github.com:Nigh/HAMKey-layout.git
+[submodule "3D"]
+	path = 3D
+	url = git@github.com:Nigh/HAMKey-3D.git
