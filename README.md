@@ -10,6 +10,9 @@ this project is WIP
 
 ## Schematic diagram
 
-![](https://github.com/Nigh/HAMKey-layout/raw/main/HAM-Key.jpg)
+![](https://github.com/Nigh/HAMKey-layout/raw/main/plots/schematic.png)
 
-## Layout
+## Placement
+
+![](https://github.com/Nigh/HAMKey-layout/raw/main/plots/placement.png)
+
