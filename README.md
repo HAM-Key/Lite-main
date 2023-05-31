@@ -3,18 +3,17 @@
 
 ## 简介
 
-项目正在开发中。。。
+`HAMKey`是一个与摩斯码密切相关的键盘项目。旨在为业余无线电爱好者和对摩斯码感兴趣的人群提供一个便利的输入外设。
+
+本分支为`HAMKey-Lite`的主仓库。
+
+## 实物图
+
+![](./assets/photo.jpg)
 
 ## 用法
 
-
-## 原理图
-
-![](https://github.com/Nigh/HAMKey-layout/raw/main/plots/schematic.png)
-
-## 位号图
-
-![](https://github.com/Nigh/HAMKey-layout/raw/main/plots/placement.png)
+见 [固件仓库](https://github.com/Nigh/HAMKey-firmware/tree/lite)
 
 ## 鸣谢
 
