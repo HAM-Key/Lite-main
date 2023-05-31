@@ -1,9 +1,12 @@
 [submodule "firmware"]
 	path = firmware
-	url = git@github.com:Nigh/HAMKey-firmware.git
+	url = https://github.com/Nigh/HAMKey-firmware
+	branch = lite
 [submodule "layout"]
 	path = layout
-	url = git@github.com:Nigh/HAMKey-Lite-layout.git
+	url = https://github.com/Nigh/HAMKey-Lite-layout
+	branch = main
 [submodule "3D"]
 	path = 3D
-	url = git@github.com:Nigh/HAMKey-3D.git
+	url = https://github.com/Nigh/HAMKey-Lite-3D
+	branch = main
